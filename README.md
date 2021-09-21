@@ -4,4 +4,4 @@
 - Asal Universitas : Universitas Diponegoro
 - Kelas : PYTN-KS-001
 - Kode Peserta : PYTN-KS01-005
-- Nomor Peserta : 5
+- Nomor Peserta : 005
